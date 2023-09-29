@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Sanne 't Hooft (vervangen door jouw naam)
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Rood
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Surfaceplane
  
 </details>
 
@@ -36,15 +36,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.hockeycentre.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Website mibiele versie
+  <img src="readme-images/web-mobile.png" width="375px" alt="Website mobiel">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -57,6 +57,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  Website zat goed in elkaar
+  Meeste functies waren aanwezig
+  Veel divs gebruikt
+  Niet alles correct gesloten in de code
+  Afbeeldingen meestal geen duidelijke uitleg wat wat is
+  Text to speech niet altijd correct ingevoerd door middel van H1/2tjes
+
 
 </details>
 
@@ -68,13 +75,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdown.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  <img src="" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
@@ -88,7 +95,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Breakdown lastig, code van website moeilijk in te zien. Veel verschillende onderdelen in website maar ook weer niet. Hierdoor nog niet ver met code gekomen van webiste. Wel nu een idee waar ik moet gaan beginnen en op gaan focussen.
 
 
   ### Agenda voor meeting
